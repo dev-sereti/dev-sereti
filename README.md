@@ -7,20 +7,20 @@
 
 ### 🚀 About Me
 
-I’m a passionate full-stack developer who builds secure, scalable systems and user-focused applications. I enjoy solving real-world problems using tech and love automating workflows, managing infrastructure, and crafting seamless user experiences.
+I'm a passionate full-stack developer building secure, scalable systems and intuitive user experiences. I enjoy solving real-world problems through automation, system design, and innovative user interfaces.
 
-- 🔧 I specialize in **Web Development, Mobile Apps**, and **IT Support Automation**
+- 🔧 Skilled in **Web & Mobile Development, Automation**, and **IT Support Engineering**
 - 🛡️ Exploring **Cybersecurity**, **Network Monitoring**, and **Firewall Systems**
-- 🔁 Open to freelance, remote work, and collaboration on impactful projects
-- 🧰 Experienced in setting up complete project lifecycles: from development, deployment, to monitoring
+- 🚀 Delivering full project cycles: from idea to deployment and monitoring
+- 🤝 Open to freelance, remote roles, and collaborations
 
-> 🔗 **Portfolio**: [dev-sereti.netlify.app](https://dev-sereti.netlify.app)
+> 🔗 **Portfolio:** [dev-sereti.netlify.app](https://dev-sereti.netlify.app)
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
+#### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -28,8 +28,11 @@ I’m a passionate full-stack developer who builds secure, scalable systems and 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### 🧰 Frameworks & Tools
+#### ⚙️ Frameworks & Tools
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -54,17 +57,17 @@ I’m a passionate full-stack developer who builds secure, scalable systems and 
 ### 📫 Contact
 
 - 🌐 Portfolio: [dev-sereti.netlify.app](https://dev-sereti.netlify.app)
-- 📧 Email: [dev.sereti@gmail.com](mailto:dev.sereti@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/dev-sereti](https://linkedin.com/in/dev-sereti)
+- 📧 Email: [devsereti@gmail.com](mailto:dev.sereti@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/its-sereti](https://linkedin.com/in/dev-sereti)
 
 ---
 
 ### 💡 Featured Projects
 
-- 🔒 **Gatekeeper** – An open-source firewall & hotspot monitoring tool with M-Pesa integration and real-time notifications. *(C, Python, React Native)*
-- 🤖 **Support Automation Toolkit** – Linux-focused automation suite for IT support using Python and Shell scripting.
-- 📱 **Shopline** – A Kotlin Multiplatform app connecting wholesale and retail shops efficiently.
-- 🎵 **Kenyan Music App** – Culturally tailored music player with M-Pesa support and offline mode.
+- 🔒 **Gatekeeper** – Open-source firewall & hotspot manager with M-Pesa payments, alerts, and real-time network analysis.
+- 🤖 **Support Automation Toolkit** – Linux automation tools for IT support built in Python & Shell.
+- 📱 **Shopline** – Kotlin Multiplatform app bridging wholesale and retail trade in local markets.
+- 🎵 **Kenyan Music App** – Swahili-localized music player with offline mode and artist support via M-Pesa.
 
 ---
 
