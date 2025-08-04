@@ -64,11 +64,11 @@ I'm a passionate full-stack developer building secure, scalable systems and intu
 
 ### 💡 Featured Projects
 
-- 🔒 **Gatekeeper** – Open-source firewall & hotspot manager with M-Pesa payments, alerts, and real-time network analysis.
-- 🤖 **Support Automation Toolkit** – Linux automation tools for IT support built in Python & Shell.
+- 🛡️ **Gatekeeper** – Open-source firewall & hotspot manager with M-Pesa payments, alerts, and real-time network analysis.
+- 👨‍💻 **Support Automation Toolkit** – Linux automation tools for IT support built in Python & Shell.
 - 📱 **Shopline** – Kotlin Multiplatform app bridging wholesale and retail trade in local markets.
 - 🎵 **Kenyan Music App** – Swahili-localized music player with offline mode and artist support via M-Pesa.
 
 ---
 
-> ⚡ *"Code with purpose. Automate what you hate. Secure what you build."*
+> ⚡ *Code with purpose. Automate what you hate. Secure what you build.*
