@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sereti</h1>
 <p align="center">
-  <i>Full-Stack Developer | DevOps Enthusiast | Cybersecurity Learner</i>
+  <i>Full-Stack Developer | Data Analyst | DevOps Enthusiast | Cybersecurity Learner</i>
 </p>
 
 ---
