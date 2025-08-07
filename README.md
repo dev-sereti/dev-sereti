@@ -11,6 +11,7 @@ I'm a passionate full-stack developer building secure, scalable systems and intu
 
 - 🔧 Skilled in **Web & Mobile Development, Automation**, and **IT Support Engineering**
 - 🛡️ Exploring **Cybersecurity**, **Network Monitoring**, and **Firewall Systems**
+- 📊 Integrating **Data Analytics** to empower smarter decisions and real-time insights
 - 🚀 Delivering full project cycles: from idea to deployment and monitoring
 - 🤝 Open to freelance, remote roles, and collaborations
 
@@ -42,6 +43,18 @@ I'm a passionate full-stack developer building secure, scalable systems and intu
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 📈 Data Analytics & Visualization
+
+I harness the power of **Power BI**, **Python**, and **SQL** to transform raw data into actionable insights:
+
+- 🔹 **SQL**: I design optimized schemas, run complex queries, and manage data pipelines using MySQL/PostgreSQL.
+- 🔹 **Python**: I build data pipelines, clean data using Pandas, and apply automation or machine learning for predictions and trends.
+- 🔹 **Power BI**: I craft real-time dashboards and reports for clear business storytelling and decision support.
+
+From tracking app user growth to forecasting product demand or monitoring network health, I believe in **data-backed development** that scales with insight.
 
 ---
 
