@@ -1,80 +1,110 @@
-<!-- README.md for dev-sereti -->
-<h1 align="center">Hi there 👋, I'm Sereti</h1>
+<!-- Unique GitHub Profile README for dev-sereti -->
+
+<!-- 🟦 Unique Animated Header -->
 <p align="center">
-  <i>Full-Stack Developer • Data Analyst • Cybersecurity & Automation Enthusiast</i><br/>
-  <small>Nairobi, Kenya • <a href="https://dev-sereti.netlify.app">Portfolio</a> • <a href="https://linkedin.com/in/its-sereti">LinkedIn</a></small>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3EC8F6&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sereti+👋;Full-Stack+Developer+%7C+Data+Analyst+%7C+Cybersecurity+Learner;Building+Secure+%26+Data-Driven+Systems;Let's+Code+Something+Awesome!+🚀" alt="Typing SVG Header" />
 </p>
 
 ---
 
-## 🔭 What I do.
-I build secure, scalable web & mobile apps and actionable data solutions that help teams make faster decisions. I enjoy automation, system design, and shipping products that solve real user problems.
+### 👨‍💻 **About Me**
 
-- ✅ Full project life cycle: design → build → deploy → monitor  
-- ✅ Data pipelines & dashboards (Power BI, Pandas, SQL) for business insights  
-- ✅ Networking / firewall automation and lightweight DevOps for production
+Hi there! I'm **Sereti**, a passionate **Full-Stack Developer**, **Data Analyst**, and **Cybersecurity Learner** from **Kenya 🇰🇪**.
 
----
+💡 I love building **secure, scalable, and data-powered systems** that solve real-world challenges.  
+⚙️ My focus is on **automation**, **system reliability**, and **data insights** that drive smarter decisions.  
+🎯 I’m currently expanding my skills in **Network Security**, **Cloud Infrastructure**, and **DevOps**.  
+💬 Ask me about **web apps**, **data visualization**, or **automating IT support workflows**.  
+🤝 Open to **remote collaborations**, **freelance gigs**, and **open-source projects**.  
 
-## 🛠️ Tech snapshot
-**Languages:** Python · JavaScript · TypeScript · Java · Kotlin · PHP · Shell · C  
-**Frameworks & Tools:** React · Vue · Laravel · Tailwind · Docker · Git · MySQL · Firebase · Linux · Power BI  
-(Complete stack and proficiency details available on my portfolio.)
+> “Code with purpose. Automate what you hate. Secure what you build.”
 
 ---
 
-## ⭐ Featured projects
-> Short demo + one-line problem statement — click for code, demo & install.
+### 🧰 **Tools & Tech Stuff**
 
-### Gatekeeper — Firewall & Hotspot Manager  
-**Problem:** Manage network access, M-Pesa hotspot payments and realtime alerts for small ISPs.  
-**Tech:** Linux, Python, Docker, Nginx, MySQL  
-**Demo / Repo:** [github.com/dev-sereti/gatekeeper](#) • ![demo](assets/gatekeeper-demo.gif)  
-**Status:** Actively maintained — production deployments (ask for demo).
-
-### Support Automation Toolkit — IT Support Scripts  
-**Problem:** Automate repetitive support tasks (logs, backups, system checks).  
-**Tech:** Python, Bash, Cron, Systemd  
-**Repo:** [github.com/dev-sereti/support-toolkit](#) • ![demo](assets/support-toolkit-screenshot.png)  
-**Usage:** `git clone ... && ./setup.sh`
-
-### Shopline — Kotlin Multiplatform Trade App  
-**Problem:** Bridge wholesale and retail trade with offline-first features and M-Pesa payments.  
-**Tech:** Kotlin Multiplatform, SQLite, REST APIs  
-**Repo:** [github.com/dev-sereti/Shopline](#) • Play Store / APK link in repo.
-
----
-
-## 📊 Data & Analytics
-I build pipelines and dashboards to convert raw data into decisions:
-- SQL: schema design, ETL queries, optimization  
-- Python: Pandas, data cleaning, automation scripts and notebooks (see `/datasets-notebooks`)  
-- Power BI: Interactive dashboards, KPI tracking, and scheduled refreshes
-
-**Example notebook & sample dashboard:** see `/projects/data-analytics` for reproducible steps.
-
----
-
-## 📈 GitHub Stats
+#### 💻 **Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_title=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sereti&layout=compact&theme=github_dark" height="140" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,php,kotlin,c,html,css,bash" />
+</p>
+
+#### ⚙️ **Frameworks & Libraries**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,laravel,tailwind,bootstrap,nodejs,express,vite" />
+</p>
+
+#### 🛢️ **Databases & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,firebase,linux,git,github,nginx" />
+</p>
+
+#### 📊 **Data Analysis & Visualization**
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-## 📫 Contact
-- Portfolio: https://dev-sereti.netlify.app  
-- Email: devsereti@gmail.com  
-- LinkedIn: https://linkedin.com/in/its-sereti  
-- Availability: Open to freelance & remote collaborations — message me on LinkedIn or email.
+### 🚀 **Featured Projects**
+
+| 🌟 Project | 💡 Description | 🧠 Tech Stack |
+|-------------|----------------|---------------|
+| 🛡️ **Gatekeeper** | Firewall & Hotspot Manager with M-Pesa integration for local ISPs | Python, Linux, Docker |
+| 🧰 **Support Automation Toolkit** | Automates repetitive IT support tasks & monitoring scripts | Python, Shell |
+| 📱 **Shopline** | Kotlin Multiplatform app connecting retailers & wholesalers | Kotlin, REST API, SQLite |
+| 🎵 **Kenyan Music App** | Swahili-localized player with offline & M-Pesa artist support | React, Firebase |
+
+> 🔗 [Explore All Repositories →](https://github.com/dev-sereti?tab=repositories)
 
 ---
 
-## ⚡ Quick ways to help me improve this profile
-If you have a minute, please ⭐ star any projects you find useful, file issues, or submit PRs to improve docs and tests.
+### 📈 **GitHub Stats & Activity**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sereti&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true" height="150"/>
+</p>
 
 ---
 
-> _Code with purpose. Automate what you hate. Secure what you build._
+### 🏆 **GitHub Achievements**
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-sereti&theme=algolia&no-bg=true&margin-w=15&column=4" alt="GitHub trophies" />
+</p>
+
+---
+
+### 💬 **Random Developer Quote**
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random developer quote" />
+</p>
+
+---
+
+### 📫 **Let’s Connect!**
+<p align="center">
+  <a href="mailto:devsereti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://linkedin.com/in/its-sereti"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://dev-sereti.netlify.app"><img src="https://skillicons.dev/icons?i=netlify" height="40"/></a>
+  <a href="https://github.com/dev-sereti"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
+
+---
+
+### 🎨 **Profile Views & Activity**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-sereti&style=flat-square&color=blue" alt="Profile Views Counter"/>
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting! Keep building, keep learning, and stay curious. ✨</h3>
