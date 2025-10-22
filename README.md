@@ -7,7 +7,7 @@
 
 ---
 
-## 🔭 What I do (TL;DR)
+## 🔭 What I do.
 I build secure, scalable web & mobile apps and actionable data solutions that help teams make faster decisions. I enjoy automation, system design, and shipping products that solve real user problems.
 
 - ✅ Full project life cycle: design → build → deploy → monitor  
