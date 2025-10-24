@@ -3,7 +3,7 @@
 <!-- 🟦 Unique Animated Header -->
 <p align="center">
   <a href="https://github.com/dev-sereti">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3EC8F6&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Sereti+👋;Full-Stack+Developer+%7C+Data+Analyst+%7C+Cybersecurity+Learner;Building+Secure+%26+Data-Driven+Systems;Let's+Code+Something+Awesome!+🚀" alt="Typing SVG Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3EC8F6&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Sereti+👋;Full-Stack+Developer+%7C+Data+Analyst+%7C+Cybersecurity+Learner;Building+Secure+%26+Data-Driven+Systems;Let's+Code+Something+Awesome!+🚀" alt="Typing SVG Header" />
   </a>
 </p>
 
