@@ -12,11 +12,11 @@
 
 Hi there! I'm **Sereti**, a passionate **Full-Stack Developer**, **Data Analyst**, **Machine Learning Enthusiast** and **Cybersecurity Learner** from **Kenya 🇰🇪**.
 
-💡 I love building **secure, scalable, and data-powered systems** that solve real-world challenges.  
-⚙️ My focus is on **automation**, **system reliability**, and **data insights** that drive smarter decisions.  
-🎯 I’m currently expanding my skills in **Network Security**, **Cloud Infrastructure**, and **DevOps**.  
-💬 Ask me about **web apps**, **data visualization**, or **automating IT support workflows**.  
-🤝 Open to **remote collaborations**, **freelance gigs**, and **open-source projects**.  
+💡 I love building secure, scalable, and data-powered systems** that solve real-world challenges.  
+⚙️ My focus is on automation, system reliability, and data insights that drive smarter decisions.  
+🎯 I’m currently expanding my skills in Network Security, Cloud Infrastructure, and DevOps.  
+💬 Ask me about web apps, data visualization, or automating IT support workflows.  
+🤝 Open to remote collaborations, freelance gigs, and open-source projects.  
 
 > “Code with purpose. Automate what you hate. Secure what you build.”
 
