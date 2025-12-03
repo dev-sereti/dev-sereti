@@ -10,7 +10,7 @@
 
 ### 👨‍💻 **About Me**
 
-Hi there! I'm **Sereti**, a passionate **Full-Stack Developer**, **Data Analyst**, and **Cybersecurity Learner** from **Kenya 🇰🇪**.
+Hi there! I'm **Sereti**, a passionate **Full-Stack Developer**, **Data Analyst**, **Machine Learning Enthusiast** and **Cybersecurity Learner** from **Kenya 🇰🇪**.
 
 💡 I love building **secure, scalable, and data-powered systems** that solve real-world challenges.  
 ⚙️ My focus is on **automation**, **system reliability**, and **data insights** that drive smarter decisions.  
