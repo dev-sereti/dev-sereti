@@ -12,7 +12,7 @@
 
 Hi there! I'm **Sereti**, a passionate **Full-Stack Developer**, **Data Analyst**, **Machine Learning Enthusiast** and **Cybersecurity Learner** from **Kenya 🇰🇪**.
 
-💡 I love building secure, scalable, and data-powered systems** that solve real-world challenges.  
+💡 I love building secure, scalable, and data-powered systems that solve real-world challenges.  
 ⚙️ My focus is on automation, system reliability, and data insights that drive smarter decisions.  
 🎯 I’m currently expanding my skills in Network Security, Cloud Infrastructure, and DevOps.  
 💬 Ask me about web apps, data visualization, or automating IT support workflows.  
@@ -41,8 +41,8 @@ Hi there! I'm **Sereti**, a passionate **Full-Stack Developer**, **Data Analyst*
 
 #### 📊 **Data Analysis & Visualization**
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=python&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo-excel&logoColor=white/>
