@@ -7,74 +7,19 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Full-stack developer focused on secure web systems + data analytics.</b><br/>
-  I build automation tooling and data-driven apps (especially for ops/ISP-style workflows).
-</p>
-
-<p align="center">
-  <a href="https://dev-sereti.netlify.app"><b>Portfolio</b></a> •
-  <!-- Replace with your real resume link -->
-  <a href="https://dev-sereti.netlify.app/resume"><b>Resume</b></a> •
-  <a href="https://linkedin.com/in/its-sereti"><b>LinkedIn</b></a> •
-  <a href="mailto:devsereti@gmail.com"><b>Email</b></a>
-</p>
-
 ---
 
-## About
+## About Me
 
 Hi! I’m **Sereti** — a **Full-Stack Developer** and **Data Analyst** from **Kenya**.
 
 - I build secure, scalable, data-powered systems that solve real problems.
-- I care about automation, reliability, and actionable insights.
-- Learning focus: **network security**, **cloud infrastructure**, and **DevOps**.
-- Open to: **remote roles**, **contract/freelance**, and **open-source**.
-- Timezone: **EAT (UTC+3)**
+- Interested in automation, reliability, and insights that support better decisions.
+- Currently learning more about **network security**, **cloud infrastructure**, and **DevOps**.
+- Ask me about web apps, data visualization, or automating IT support workflows.
+- Open to remote collaborations, freelance work, and open-source contributions.
 
 > Code with purpose. Automate what you hate. Secure what you build.
-
----
-
-## Now
-
-- Building: **Gatekeeper** (network/firewall + hotspot management)  
-- Improving: CI/CD, container hardening, and production readiness for side projects  
-- Learning: practical security foundations (OWASP basics, network fundamentals), cloud deployment patterns
-
-<!-- Optional: add 1-2 concrete goals -->
-<!-- - Goal: ship X feature / publish a blog post / contribute to Y project -->
-
----
-
-## Featured Work
-
-### Gatekeeper — Secure hotspot & firewall management
-- **Problem:** manual provisioning, inconsistent network access control, billing workflow friction  
-- **Solution:** centralized management + automation (with M‑Pesa integration)  
-- **Impact:** faster provisioning and fewer repetitive admin tasks *(add real metrics if you have them)*  
-- **Stack:** Python • Linux • Docker  
-- **Repo:** https://github.com/dev-sereti?tab=repositories&q=Gatekeeper
-
-### Support Automation Toolkit — IT ops scripts & monitoring helpers
-- **Problem:** repetitive IT support tasks and slow incident response  
-- **Solution:** scripts for automation, checks, and repeatable workflows  
-- **Stack:** Python • Bash  
-- **Repo:** https://github.com/dev-sereti?tab=repositories&q=Support%20Automation%20Toolkit
-
-### Shopline — Retailer/wholesaler marketplace app
-- **Problem:** connecting retailers and wholesalers with a lightweight mobile workflow  
-- **Solution:** Kotlin Multiplatform client + API integration  
-- **Stack:** Kotlin • REST API • SQLite  
-- **Repo:** https://github.com/dev-sereti?tab=repositories&q=Shopline
-
-### Kenyan Music App — Localized music experience + creator support
-- **Problem:** offline-first listening + simple creator support flows  
-- **Solution:** Swahili-localized player and payment support concept  
-- **Stack:** React • Firebase  
-- **Repo:** https://github.com/dev-sereti?tab=repositories&q=Kenyan%20Music%20App
-
-**Explore all repos:** https://github.com/dev-sereti?tab=repositories
 
 ---
 
@@ -105,47 +50,41 @@ Hi! I’m **Sereti** — a **Full-Stack Developer** and **Data Analyst** from **
 
 ---
 
-## Engineering Practices
+## Featured Projects
 
-- **API design:** REST, auth, input validation, structured logging
-- **Data work:** SQL querying, reporting, dashboarding (Power BI/Excel)
-- **Ops mindset:** automation-first, reproducible environments (Docker), Linux + Nginx basics
-- **Security basics:** least privilege, secrets hygiene, OWASP-minded checks *(expand with specifics as you implement them)*
+| Project | Description | Tech Stack |
+|---|---|---|
+| **Gatekeeper** | Firewall & hotspot manager with M-Pesa integration for local ISPs | Python, Linux, Docker |
+| **Support Automation Toolkit** | Automates repetitive IT support tasks & monitoring scripts | Python, Shell |
+| **Shopline** | Kotlin Multiplatform app connecting retailers & wholesalers | Kotlin, REST API, SQLite |
+| **Kenyan Music App** | Swahili-localized player with offline support + M-Pesa artist support | React, Firebase |
 
-<!-- Optional: add real proof points -->
-<!-- - CI: lint + tests on PRs (GitHub Actions) -->
-<!-- - Releases: semantic versioning + changelog -->
+**Explore more:** https://github.com/dev-sereti?tab=repositories
 
 ---
 
 ## GitHub Stats
 
-<details>
-  <summary><b>Open stats</b></summary>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_border=true"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sereti&layout=compact&theme=github_dark&hide_border=true"
+    height="150"
+    alt="Top Languages"
+  />
+</p>
 
-  <br/>
-
-  <p align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_border=true"
-      height="150"
-      alt="GitHub Stats"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sereti&layout=compact&theme=github_dark&hide_border=true"
-      height="150"
-      alt="Top Languages"
-    />
-  </p>
-
-  <p align="center">
-    <img
-      src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true"
-      height="150"
-      alt="GitHub Streak"
-    />
-  </p>
-</details>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true"
+    height="150"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
@@ -160,14 +99,14 @@ Hi! I’m **Sereti** — a **Full-Stack Developer** and **Data Analyst** from **
 
 ---
 
-## Security
+## Random Dev Quote
 
-If you find a security issue in any of my projects:
-- Prefer reporting it privately via email: **devsereti@gmail.com**
-- Please avoid opening public issues for vulnerabilities
-
-<!-- Optional (recommended): add SECURITY.md in key repos and link it here -->
-<!-- - Responsible disclosure policy: https://github.com/dev-sereti/<repo>/blob/main/SECURITY.md -->
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Random Developer Quote"
+  />
+</p>
 
 ---
 
