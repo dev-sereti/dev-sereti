@@ -41,7 +41,7 @@ Hi there! I'm **Sereti**, a passionate **Full-Stack Developer**, **Data Analyst*
 
 #### 📊 **Data Analysis & Visualization**
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-150458?style=flat-square&logo=python&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
