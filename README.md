@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/dev-sereti">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=3EC8F6&center=true&vCenter=true&width=1500&lines=Hey%2C+I'm+Sereti;Full-Stack+Developer+%7C+Data+Analyst+%7C+Cybersecurity+Learner+%7C+ML+Enthusiast;Building+secure+%26+data-driven+systems;Let's+build+something+useful."
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=3EC8F6&center=true&vCenter=true&width=1500&lines=Hey%2C+I'm+Sereti;Full-Stack+Developer+%7C+Data+Analyst+%7C+Data Science+Learner+%7C+ML+Enthusiast;Building+secure+%26+data-driven+systems;Let's+build+something+useful."
       alt="Typing SVG Header"
     />
   </a>
