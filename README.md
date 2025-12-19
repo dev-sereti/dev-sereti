@@ -77,6 +77,13 @@ Hi! I’m **Sereti** — **Full-Stack Developer**,**Data scientist** and **Data 
     alt="Top Languages"
   />
 </p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true"
+    height="150"
+    alt="GitHub Streak"
+  />
+</p>
 
 <!-- <p align="center">
   <img
