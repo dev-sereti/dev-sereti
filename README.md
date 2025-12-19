@@ -78,7 +78,7 @@ Hi! I’m **Sereti** — **Full-Stack Developer**,**Data scientist** and **Data 
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true"
     height="150"
@@ -132,7 +132,7 @@ Hi! I’m **Sereti** — **Full-Stack Developer**,**Data scientist** and **Data 
   />
 </p>
 
----
+--- -->
 
 ## Random Dev Quote
 
