@@ -11,12 +11,12 @@
 
 ## About Me
 
-Hi! I’m **Sereti** — a **Full-Stack Developer** and **Data Analyst** from **Kenya**.
+Hi! I’m **Sereti** — **Full-Stack Developer**,**Data scientist** and **Data Analyst** from **Kenya**.
 
 - I build secure, scalable, data-powered systems that solve real problems.
 - Interested in automation, reliability, and insights that support better decisions.
-- Currently learning more about **network security**, **cloud infrastructure**, and **DevOps**.
-- Ask me about web apps, data visualization, or automating IT support workflows.
+- Currently learning more about **Machine Learning** and **cloud infrastructure**.
+- Ask me about applications, data visualization, or automating IT support workflows.
 - Open to remote collaborations, freelance work, and open-source contributions.
 
 > Code with purpose. Automate what you hate. Secure what you build.
