@@ -36,7 +36,7 @@ A passionate full-stack developer from Kenya focused on building automation tool
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_border=true" height="160"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sereti&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
