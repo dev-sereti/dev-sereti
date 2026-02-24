@@ -10,7 +10,7 @@ Building secure, scalable, and data-driven systems that solve real-world problem
 A passionate full-stack developer from Kenya focused on building automation tools, analytics solutions, and reliable software systems.
 
 
-<p align="center"> Building automation, cybersecurity, and data platforms </p>
+<p align="center"> • Building automation, cybersecurity, and data platforms </p>
 - Building automation, cybersecurity, and data platforms  
 - Turning data into actionable insights  
 - Love improving systems through automation  
