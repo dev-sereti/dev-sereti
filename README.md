@@ -33,38 +33,6 @@ A passionate full-stack developer from Kenya focused on building automation tool
 <img src="https://img.shields.io/badge/Data%20Analysis-Python-blue?style=for-the-badge&logo=python"/>
 </p>
 
----
-
-## ⭐ Featured Projects
-
-### 🔐 Gatekeeper — Firewall & Threat Monitoring
-Automation platform for firewall management, hotspot integration, and threat detection.
-
-**Tech:** Python • Linux • Networking • Docker  
-
----
-
-### 🤖 Support Automation Toolkit
-Automates repetitive IT support tasks and monitoring workflows.
-
-**Tech:** Python • Shell • Linux  
-
----
-
-### 🛒 Shopline — Business Platform
-Kotlin Multiplatform app connecting wholesalers and retailers.
-
-**Tech:** Kotlin • REST APIs • SQLite  
-
----
-
-### 🎵 Kenyan Music App
-Localized music platform with offline mode and artist monetization.
-
-**Tech:** React • Firebase  
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
