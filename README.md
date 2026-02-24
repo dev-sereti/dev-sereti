@@ -15,9 +15,7 @@ A passionate full-stack developer from Kenya focused on building automation tool
 - Learning Machine Learning and Cloud Architecture  
 - Open to collaborations and impactful projects  
 
----
-
-## Languages and Tools
+<h1 align="center">Languages and Tools</h1>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,php,c,bash,html,css" /><br/>
@@ -31,8 +29,7 @@ A passionate full-stack developer from Kenya focused on building automation tool
 <img src="https://img.shields.io/badge/Data%20Analysis-Python-blue?style=for-the-badge&logo=python"/>
 </p>
 
-## GitHub Statistics
-
+<h1 align="center"> GitHub Statistics </h1>
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_border=true" height="160"/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sereti&layout=compact&theme=github_dark&hide_border=true" height="160"/> -->
@@ -42,19 +39,13 @@ A passionate full-stack developer from Kenya focused on building automation tool
   <img src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true" height="160"/>
 </p>
 
----
-
-## Highlights
-
+<h1 align="center">Highlights</h1>
 - Built multiple automation and cybersecurity tools  
 - Strong focus on reliability and performance  
 - Active open-source contributor  
 - Passionate about secure system design  
 
----
-
-## Interests
-
+<h1 align="center">Interests</h1>
 Automation • Data Engineering • System Design • DevOps • Machine Learning • Data Analytics
 
 ---
