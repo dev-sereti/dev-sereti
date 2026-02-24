@@ -22,8 +22,8 @@ A passionate full-stack developer from Kenya focused on building automation tool
 ## Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,php,c,bash,html,css" /><br/>
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,laravel,tailwind,bootstrap,vite" /><br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,php,c,bash,html,css" /><br/>
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,tailwind,bootstrap,vite" /><br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,linux,nginx,git,github" />
 </p>
 
