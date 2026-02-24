@@ -57,7 +57,7 @@ A passionate full-stack developer from Kenya focused on building automation tool
 
 ## Interests
 
-Automation • Data Engineering • System Design • DevOps • Machine Learning • Cybersecurity  
+Automation • Data Engineering • System Design • DevOps • Machine Learning • Data Analytics
 
 ---
 
