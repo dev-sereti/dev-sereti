@@ -48,18 +48,13 @@ A passionate full-stack developer from Kenya focused on building automation tool
 <h1 align="center">Interests</h1>
 Automation • Data Engineering • System Design • DevOps • Machine Learning • Data Analytics
 
----
-
-## Connect With Me
-
+<h1 align="center">Connect With Me</h1>
 <p align="center">
 <a href="mailto:devsereti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 <a href="https://linkedin.com/in/its-sereti"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://dev-sereti.netlify.app"><img src="https://skillicons.dev/icons?i=netlify" height="40"/></a>
 <a href="https://github.com/dev-sereti"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dev-sereti&style=flat-square&color=blue"/>
