@@ -7,7 +7,7 @@ Building secure, scalable, and data-driven systems that solve real-world problem
 
 ---
 
-## 🚀 About Me
+## About Me
 
 A passionate full-stack developer from Kenya focused on building automation tools, analytics solutions, and reliable software systems.
 
