@@ -1,5 +1,5 @@
 <h1 align="center">I'm Sereti</h1>
-<h3 align="center">Automation Engineer • Software Developer • Data Analyst</h3>
+<h3 align="center">Data Engineer • Software Developer • Data Analyst</h3>
 
 <p align="center">
 Building secure, scalable, and data-driven systems that solve real-world problems.
