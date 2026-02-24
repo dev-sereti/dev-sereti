@@ -11,11 +11,10 @@ A passionate full-stack developer from Kenya focused on building automation tool
 
 
 <p align="center"> • Building automation, cybersecurity, and data platforms </p>
-- Building automation, cybersecurity, and data platforms  
-- Turning data into actionable insights  
-- Love improving systems through automation  
-- Learning Machine Learning and Cloud Architecture  
-- Open to collaborations and impactful projects  
+<p align="center"> • Turning data into actionable insights  </p>
+<p align="center"> • Love improving systems through automation  </p>
+<p align="center"> • Learning Machine Learning and Cloud Architecture </p>
+<p align="center"> •  Open to collaborations and impactful projects </p> 
 
 <h1 align="center">Languages and Tools</h1>
 
