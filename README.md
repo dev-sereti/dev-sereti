@@ -11,15 +11,15 @@ Building secure, scalable, and data-driven systems that solve real-world problem
 
 A passionate full-stack developer from Kenya focused on building automation tools, analytics solutions, and reliable software systems.
 
-- 🔭 Building automation, cybersecurity, and data platforms  
-- 📊 Turning data into actionable insights  
-- ⚙️ Love improving systems through automation  
-- 🧠 Learning Machine Learning and Cloud Architecture  
-- 🤝 Open to collaborations and impactful projects  
+- Building automation, cybersecurity, and data platforms  
+- Turning data into actionable insights  
+- Love improving systems through automation  
+- Learning Machine Learning and Cloud Architecture  
+- Open to collaborations and impactful projects  
 
 ---
 
-## 🧰 Languages and Tools
+## Languages and Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,php,c,bash,html,css" /><br/>
@@ -33,7 +33,7 @@ A passionate full-stack developer from Kenya focused on building automation tool
 <img src="https://img.shields.io/badge/Data%20Analysis-Python-blue?style=for-the-badge&logo=python"/>
 </p>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
@@ -46,22 +46,22 @@ A passionate full-stack developer from Kenya focused on building automation tool
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
-- 🚀 Built multiple automation and cybersecurity tools  
-- 📈 Strong focus on reliability and performance  
-- 🧩 Active open-source contributor  
-- 🔐 Passionate about secure system design  
+- Built multiple automation and cybersecurity tools  
+- Strong focus on reliability and performance  
+- Active open-source contributor  
+- Passionate about secure system design  
 
 ---
 
-## 💡 Interests
+## Interests
 
 Automation • Data Engineering • System Design • DevOps • Machine Learning • Cybersecurity  
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="mailto:devsereti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
@@ -77,5 +77,5 @@ Automation • Data Engineering • System Design • DevOps • Machine Learnin
 </p>
 
 <p align="center">
-⭐ If you like my work, consider starring a repo!
+If you like my work, consider starring a repo!
 </p>
