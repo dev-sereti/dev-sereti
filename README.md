@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/dev-sereti">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=3EC8F6&center=true&vCenter=true&width=1500&lines=Hey%2C+I'm+Sereti;Full-Stack+Developer+%7C+Data+Analyst+%7C+Data+Science+Learner+%7C+ML+Enthusiast;Building+secure+%26+data-driven+systems;Let's+build+something+useful."
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=3EC8F6&center=true&vCenter=true&width=1500&lines=Hey%2C+I'm+Sereti;Automation+Engineer+%7C+Software+Developer+%7C+Data+Analyst;Building+secure+%26+data-driven+systems;Turning+complex+problems+into+simple+solutions"
       alt="Typing SVG Header"
     />
   </a>
@@ -9,167 +9,154 @@
 
 ---
 
-## About Me
+# 👋 About Me
 
-Hi! I’m **Sereti** — **Full-Stack Developer**,**Data scientist** and **Data Analyst** from **Kenya**.
+I’m **Sereti**, a software developer and data-focused engineer passionate about building **automation systems**, **analytics solutions**, and **scalable applications** that solve real-world problems.
 
-- I build secure, scalable, data-powered systems that solve real problems.
-- Interested in automation, reliability, and insights that support better decisions.
-- Currently learning more about **Machine Learning** and **cloud infrastructure**.
-- Ask me about applications, data visualization, or automating IT support workflows.
-- Open to remote collaborations, freelance work, and open-source contributions.
+I specialize in designing tools that improve reliability, security, and operational efficiency — from firewall automation to data dashboards and full-stack platforms.
 
-> Code with purpose. Automate what you hate. Secure what you build.
+💡 I enjoy working at the intersection of **software engineering, data analytics, and infrastructure automation**.
 
----
+🧠 Currently deepening my knowledge in **machine learning**, **system design**, and **cloud architecture**.
 
-## Tools & Tech
+🤝 Open to collaboration, freelance projects, and impactful open-source work.
 
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,php,kotlin,c,html,css,bash" alt="Languages" />
-</p>
-
-### Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,laravel,tailwind,bootstrap,nodejs,express,vite" alt="Frameworks and Libraries" />
-</p>
-
-### Databases & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,firebase,linux,git,github,nginx" alt="Databases and DevOps" />
-</p>
-
-### Data Analysis & Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-150458?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</p>
+> Automate the repetitive. Secure the critical. Build with purpose.
 
 ---
 
-## Featured Projects
+# 🚀 Core Expertise
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **Gatekeeper** | Firewall & hotspot manager with M-Pesa integration for local ISPs | Python, Linux, Docker |
-| **Support Automation Toolkit** | Automates repetitive IT support tasks & monitoring scripts | Python, Shell |
-| **Shopline** | Kotlin Multiplatform app connecting retailers & wholesalers | Kotlin, REST API, SQLite |
-| **Kenyan Music App** | Swahili-localized player with offline support + M-Pesa artist support | React, Firebase |
-
-**Explore more:** https://github.com/dev-sereti?tab=repositories
+✅ Automation & DevOps tooling  
+✅ Data analytics & visualization  
+✅ Backend & full-stack development  
+✅ Systems and network security tooling  
+✅ Mobile and cross-platform apps  
+✅ Performance-focused architectures  
 
 ---
 
-## GitHub Stats
+# 🛠️ Tech Stack
 
+## Languages
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_border=true"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sereti&layout=compact&theme=github_dark&hide_border=true"
-    height="150"
-    alt="Top Languages"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true"
-    height="150"
-    alt="GitHub Streak"
-  />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,php,c,bash,html,css" />
 </p>
 
-<!-- <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true"
-    height="150"
-    alt="GitHub Streak"
-  />
+## Frameworks & Runtime
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,laravel,tailwind,bootstrap,vite" />
+</p>
+
+## Data & Analytics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <br/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-Python-blue?style=flat-square&logo=python"/>
+</p>
+
+## DevOps & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,firebase,nginx,git,github" />
 </p>
 
 ---
 
-## Achievements
+# ⭐ Featured Projects
+
+## 🔐 Gatekeeper — Network Security & Firewall Automation
+A cybersecurity platform designed to detect threats, manage firewall rules, and prevent botnet activity with real-time monitoring.
+
+**Highlights**
+- Firewall automation with intelligent monitoring  
+- Real-time alerts and device insights  
+- Designed for ISP and hotspot environments  
+
+**Stack:** Python • Linux • Networking • Docker  
+
+---
+
+## 🤖 Support Automation Toolkit
+A toolkit that automates repetitive IT support workflows, monitoring, and diagnostics.
+
+**Impact**
+- Reduces manual troubleshooting time  
+- Improves system reliability  
+- Modular automation scripts  
+
+**Stack:** Python • Shell • Linux  
+
+---
+
+## 🛒 Shopline — Wholesale/Retail Platform
+A Kotlin Multiplatform application connecting businesses with seamless transactions and scalable architecture.
+
+**Stack:** Kotlin • REST APIs • SQLite  
+
+---
+
+## 🎵 Kenyan Music App
+A culturally localized music platform with offline support and artist monetization features.
+
+**Stack:** React • Firebase  
+
+---
+
+👉 Explore more projects:  
+🔗 https://github.com/dev-sereti?tab=repositories  
+
+---
+
+# 📊 GitHub Insights
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=dev-sereti&theme=algolia&no-bg=true&margin-w=15&column=4"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sereti&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=dev-sereti&theme=radical&no-frame=true&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=dev-sereti&theme=dracula&margin-w=10&margin-h=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=dev-sereti&theme=tokyonight&no-bg=true&no-frame=true&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=dev-sereti&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=dev-sereti&theme=onedark&column=3&row=2&margin-w=20&margin-h=20"
-    alt="GitHub Trophies"
-  />
-</p>
-
---- -->
-
-## Random Dev Quote
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    alt="Random Developer Quote"
-  />
+  <img src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## Let’s Connect
+# 🏆 Achievements & Highlights
+
+🏅 Built multiple automation and security tools used in real environments  
+📈 Strong focus on reliability, performance, and maintainability  
+🧩 Active open-source contributor  
+🚀 Continuously learning and shipping impactful projects  
+
+---
+
+# 💬 Dev Philosophy
+
+I believe great software should be:
+
+✔ Secure by design  
+✔ Data-informed  
+✔ Maintainable  
+✔ Built to solve real problems  
+
+---
+
+# 🌍 Let’s Connect
 
 <p align="center">
-  <a href="mailto:devsereti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
-  <a href="https://linkedin.com/in/its-sereti"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-  <a href="https://dev-sereti.netlify.app"><img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Portfolio" /></a>
-  <a href="https://github.com/dev-sereti"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
+  <a href="mailto:devsereti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://linkedin.com/in/its-sereti"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://dev-sereti.netlify.app"><img src="https://skillicons.dev/icons?i=netlify" height="40"/></a>
+  <a href="https://github.com/dev-sereti"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=dev-sereti&style=flat-square&color=blue"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=dev-sereti&style=flat-square&color=blue"/>
 </p>
 
 <p align="center">
-  Thanks for visiting — keep building, keep learning, stay curious.
+  ⭐ If you like my work, consider starring a repo — it helps a lot!
 </p>
