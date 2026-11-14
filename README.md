@@ -1,5 +1,5 @@
 <h1 align="center"> Sereti </h1>
-<h3 align="center">Data Analyst • Data Engineer • Software Developer (for fun)</h3>
+<h3 align="center">Data Analyst • Data Engineer • Software Developer </h3>
 
 <p align="center">
 Turning raw data into insight, building reliable pipelines, and tinkering with code just because it's fun.
