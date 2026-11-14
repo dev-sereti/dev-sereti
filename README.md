@@ -19,9 +19,9 @@ I'm a data professional from Kenya. By day I focus on **data analytics** (dashbo
 
 | Focus | What it looks like |
 |---|---|
-| 📊 **Data Analytics** | Exploratory analysis, KPI dashboards, reporting, storytelling with data |
-| 🛠️ **Data Engineering** | ETL/ELT pipelines, database design, workflow automation, data quality |
-| 🎮 **Software Dev (hobby)** | Side projects, web apps, CLI tools, automation scripts, just for fun |
+| **Data Analytics** | Exploratory analysis, KPI dashboards, reporting, storytelling with data |
+| **Data Engineering** | ETL/ELT pipelines, database design, workflow automation, data quality |
+| **Software Dev (hobby)** | Side projects, web apps, CLI tools, automation scripts, just for fun |
 
 <h2 align="center">Tech Stack</h2>
 
@@ -39,7 +39,7 @@ I'm a data professional from Kenya. By day I focus on **data analytics** (dashbo
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,linux,bash,git,githubactions,nginx,firebase" />
 </p>
 
-<h3 align="center">🎮 Software Development (Just for Fun)</h3>
+<h3 align="center">Software Development</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,dart,flutter,git,github" />
 </p>
