@@ -41,9 +41,7 @@ I'm a data professional from Kenya. By day I focus on **data analytics** (dashbo
 
 <h3 align="center">🎮 Software Development (Just for Fun)</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,php,c,html,css" /><br/>
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,tailwind,bootstrap,vite" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,netlify" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,dart,flutter,git,github" />
 </p>
 
 <h2 align="center">Currently Exploring</h2>
