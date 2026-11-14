@@ -1,66 +1,79 @@
-<h1 align="center">I'm Sereti</h1>
-<h3 align="center">Data Engineer • Software Developer • Data Analyst</h3>
+name: GitHub Metrics
 
-<p align="center">
-Building secure, scalable, and data-driven systems that solve real-world problems.
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"      # daily at midnight UTC
+  workflow_dispatch:          # manual run button
+  push:
+    branches: [main]
 
-<h1 align="center">About Me</h1>
+permissions:
+  contents: write
 
-A passionate full-stack developer from Kenya focused on building automation tools, analytics solutions, and reliable software systems.
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: dev-sereti
+          filename: github-metrics.svg
+          committer_branch: main
 
+          # Layout / look (dark, classic template like your screenshot)
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Africa/Nairobi
+          config_display: large
+          config_padding: 0, 8 + 11%
 
-<!-- <p align="center"> • Building automation, cybersecurity, and data platforms </p>
-<p align="center"> • Turning data into actionable insights  </p>
-<p align="center"> • Love improving systems through automation  </p>
-<p align="center"> • Learning Machine Learning and Cloud Architecture </p>
-<p align="center"> •  Open to collaborations and impactful projects </p>  -->
+          # Contributions calendar (3D isometric)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
-<h1 align="center">Languages and Tools</h1>
+          # Coding habits: commit time of day, per day, language activity
+          plugin_habits: yes
+          plugin_habits_from: 250
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_languages_limit: 8
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,php,c,bash,html,css" /><br/>
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,tailwind,bootstrap,vite" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,linux,nginx,git,github" />
-</p>
+          # Most used languages
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
 
-<p align="center">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-Python-blue?style=for-the-badge&logo=python"/>
-</p>
+          # Lines added / removed
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
 
-<h1 align="center"> GitHub Statistics </h1>
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dev-sereti&show_icons=true&theme=github_dark&hide_border=true" height="160"/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sereti&layout=compact&theme=github_dark&hide_border=true" height="160"/> -->
-</p>
+          # Mastered technologies and topics (icon grid)
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: mastered
+          plugin_topics_limit: 0
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true" height="160"/>
-</p>
+          # PageSpeed Insights for your portfolio
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://dev-sereti.netlify.app
+          plugin_pagespeed_detailed: yes
 
-<h1 align="center">Highlights</h1>
-- Built multiple automation and cybersecurity tools  
-- Strong focus on reliability and performance  
-- Active open-source contributor  
-- Passionate about secure system design  
+          # Followers / contribution streak style info
+          plugin_followup: yes
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
 
-<h1 align="center">Interests</h1>
-Automation • Data Engineering • System Design • DevOps • Machine Learning • Data Analytics
+          # Optional: Suggested tracks (needs a public Apple Music playlist)
+          # plugin_music: yes
+          # plugin_music_provider: apple
+          # plugin_music_playlist: https://music.apple.com/ke/playlist/YOUR_PLAYLIST
+          # plugin_music_limit: 2
 
-<h1 align="center">Connect With Me</h1>
-<p align="center">
-<a href="mailto:devsereti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-<a href="https://linkedin.com/in/its-sereti"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://dev-sereti.netlify.app"><img src="https://skillicons.dev/icons?i=netlify" height="40"/></a>
-<a href="https://github.com/dev-sereti"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dev-sereti&style=flat-square&color=blue"/>
-</p>
-
-<p align="center">
-If you like my work, consider starring a repo!
-</p>
+          # Optional: Roadmap project card (needs a GitHub Project)
+          # plugin_projects: yes
+          # plugin_projects_repositories: dev-sereti/dev-sereti/1
