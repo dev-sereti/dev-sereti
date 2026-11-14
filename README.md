@@ -1,4 +1,4 @@
-<h1 align="center">I'm Sereti 👋</h1>
+<h1 align="center"> Sereti </h1>
 <h3 align="center">Data Analyst • Data Engineer • Software Developer (for fun)</h3>
 
 <p align="center">
