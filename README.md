@@ -22,7 +22,7 @@ I'm a data professional from Kenya. By day I focus on **data analytics** (dashbo
 | Focus | What it looks like |
 |---|---|
 | **Data Analytics** | Exploratory analysis, KPI dashboards, reporting, storytelling with data |
-| **Data Engineering** | ETL/ELT pipelines, database design, workflow automation, data quality |
+| **🗄️ ➡️ ⚙️ ➡️ 🗃️ ➡️ 📊** | ETL/ELT pipelines, database design, workflow automation, data quality |
 | **Software Dev (hobby)** | Side projects, web apps, CLI tools, automation scripts, just for fun |
 
 </div>
