@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [dev]
 
 permissions:
   contents: write
@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: dev-sereti
           filename: github-metrics.svg
-          committer_branch: main
+          committer_branch: dev
 
           template: classic
           base: header, activity, community, repositories, metadata
