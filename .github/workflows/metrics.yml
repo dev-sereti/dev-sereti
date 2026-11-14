@@ -24,6 +24,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          commits_authoring: dev-sereti, devsereti@gmail.com
           config_timezone: Africa/Nairobi
           config_display: large
           config_padding: 0, 8 + 11%
@@ -40,8 +41,7 @@ jobs:
           plugin_lines_history_limit: 1
 
           plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
+          plugin_topics_mode: mastered
           plugin_topics_limit: 0
 
           plugin_pagespeed: yes
