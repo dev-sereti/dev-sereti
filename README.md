@@ -1,79 +1,73 @@
-name: GitHub Metrics
+<h1 align="center">I'm Sereti 👋</h1>
+<h3 align="center">Data Analyst • Data Engineer • Software Developer (for fun)</h3>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"      # daily at midnight UTC
-  workflow_dispatch:          # manual run button
-  push:
-    branches: [main]
+<p align="center">
+Turning raw data into insight, building reliable pipelines, and tinkering with code just because it's fun.
+</p>
 
-permissions:
-  contents: write
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%"/>
+</p>
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: dev-sereti
-          filename: github-metrics.svg
-          committer_branch: main
+---
 
-          # Layout / look (dark, classic template like your screenshot)
-          template: classic
-          base: header, activity, community, repositories, metadata
-          base_indepth: yes
-          config_timezone: Africa/Nairobi
-          config_display: large
-          config_padding: 0, 8 + 11%
+<h2 align="center">About Me</h2>
 
-          # Contributions calendar (3D isometric)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+I'm a data professional from Kenya. By day I focus on **data analytics** (dashboards, reporting, insights) and **data engineering** (pipelines, databases, automation). On the side, I build software **as a hobby, purely for fun**: small tools, automations, and experiments that keep me learning.
 
-          # Coding habits: commit time of day, per day, language activity
-          plugin_habits: yes
-          plugin_habits_from: 250
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_languages_limit: 8
+<h2 align="center">What I Do</h2>
 
-          # Most used languages
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
+| Focus | What it looks like |
+|---|---|
+| 📊 **Data Analytics** | Exploratory analysis, KPI dashboards, reporting, storytelling with data |
+| 🛠️ **Data Engineering** | ETL/ELT pipelines, database design, workflow automation, data quality |
+| 🎮 **Software Dev (hobby)** | Side projects, web apps, CLI tools, automation scripts, just for fun |
 
-          # Lines added / removed
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
+<h2 align="center">Tech Stack</h2>
 
-          # Mastered technologies and topics (icon grid)
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: mastered
-          plugin_topics_limit: 0
+<h3 align="center">📊 Data Analytics</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,postgres,mysql" /><br/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-          # PageSpeed Insights for your portfolio
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://dev-sereti.netlify.app
-          plugin_pagespeed_detailed: yes
+<h3 align="center">🛠️ Data Engineering</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,linux,bash,git,githubactions,nginx,firebase" />
+</p>
 
-          # Followers / contribution streak style info
-          plugin_followup: yes
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
+<h3 align="center">🎮 Software Development (Just for Fun)</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,php,c,html,css" /><br/>
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,tailwind,bootstrap,vite" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,netlify" />
+</p>
 
-          # Optional: Suggested tracks (needs a public Apple Music playlist)
-          # plugin_music: yes
-          # plugin_music_provider: apple
-          # plugin_music_playlist: https://music.apple.com/ke/playlist/YOUR_PLAYLIST
-          # plugin_music_limit: 2
+<h2 align="center">Currently Exploring</h2>
+<p align="center">
+Machine Learning • Cloud Architecture • Workflow Orchestration • System Design • DevOps
+</p>
 
-          # Optional: Roadmap project card (needs a GitHub Project)
-          # plugin_projects: yes
-          # plugin_projects_repositories: dev-sereti/dev-sereti/1
+<h2 align="center">Streak</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-sereti&theme=github-dark-blue&hide_border=true" height="160"/>
+</p>
+
+<h2 align="center">Connect With Me</h2>
+<p align="center">
+<a href="mailto:devsereti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://linkedin.com/in/its-sereti"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://dev-sereti.netlify.app"><img src="https://skillicons.dev/icons?i=netlify" height="40"/></a>
+<a href="https://github.com/dev-sereti"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dev-sereti&style=flat-square&color=blue"/>
+</p>
+
+<p align="center">
+If you like my work, consider starring a repo ⭐
+</p>
