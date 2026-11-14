@@ -29,7 +29,7 @@ I'm a data professional from Kenya. By day I focus on **data analytics** (dashbo
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">📊 Data Analytics</h3>
+<h3 align="center">Data Analytics</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql" /><br/>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -40,7 +40,7 @@ I'm a data professional from Kenya. By day I focus on **data analytics** (dashbo
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-<h3 align="center">🛠️ Data Engineering</h3>
+<h3 align="center">Data Engineering</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,linux,bash,git,githubactions,nginx,firebase" />
 </p>
